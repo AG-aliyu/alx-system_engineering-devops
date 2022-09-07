@@ -29,3 +29,5 @@
 
 13. Write a script that prints a number with two decimal places, followed by a new line.
 13. Write a script that prints a number with two decimal places, followed by a new line.
+
+14. Write a script that converts a number from base 10 to base 16.
